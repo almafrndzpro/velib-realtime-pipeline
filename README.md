@@ -116,6 +116,8 @@ velib-pipeline/
 **API endpoint:**  
 `https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/velib-disponibilite-en-temps-reel/records`
 
+`https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/information/?disjunctive.is_renting&disjunctive.is_installed&disjunctive.is_returning&disjunctive.name&disjunctive.nom_arrondissement_communes`
+
 - No API key required
 - ~1,517 stations across Paris and surrounding municipalities
 - Updates every ~2 minutes at the source
